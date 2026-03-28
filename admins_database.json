@@ -1,0 +1,49 @@
+{
+    "teachers": [
+        {
+            "name": "Dr. Ramesh Kumar",
+            "email": "ramesh@vvce.ac.in",
+            "department": "Computer Science"
+        },
+        {
+            "name": "Prof. Sunita Verma",
+            "email": "sunita@vvce.ac.in",
+            "department": "Information Science"
+        }
+    ],
+    "courses": [
+        {
+            "id": "CS101",
+            "name": "Machine Learning",
+            "department": "CSE"
+        },
+        {
+            "id": "IS101",
+            "name": "Cloud Computing",
+            "department": "ISE"
+        },
+        {
+            "id": "ME201",
+            "name": "robotics",
+            "department": "MECH"
+        },
+        {
+            "id": "civil4087",
+            "name": "bridge",
+            "department": "CIVIL"
+        }
+    ],
+    "meeting": {
+        "link": "https://meet.google.com/abc-defg-hij",
+        "title": "Faculty Strategy Meeting",
+        "timestamp": "2026-03-28 10:55:00"
+    },
+    "settings": {
+        "institution_name": "TesseractX Academy",
+        "system_status": "Operational",
+        "maintenance_mode": false,
+        "public_registrations": true,
+        "ai_intensity": "ULTRA",
+        "total_students": 7500
+    }
+}
